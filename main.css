@@ -1,0 +1,13 @@
+header {
+    margin-left: calc((100% - 800px) / 2);
+    margin-right: calc((100% - 800px) / 2); 
+    display: inline-block; 
+    width: 800px; 
+    background-color: yellowgreen;
+}
+
+main {
+    background-color: violet;
+    margin-left: calc((100% - 800px) / 2);
+    margin-right: calc((100% - 800px) /2);
+}
