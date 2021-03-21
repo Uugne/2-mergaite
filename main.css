@@ -3,7 +3,7 @@ header {
     margin-right: calc((100% - 800px) / 2); 
     display: inline-block; 
     width: 800px; 
-    background-color: yellowgreen;
+    background-color: lightgrey;
 }
 
 main {
