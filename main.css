@@ -1,6 +1,7 @@
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #9f9f9f;
+    background-color: #f8f8f8;
 }
 
 header {
@@ -30,17 +31,18 @@ a {
     float: left;
     color: #9f9f9f;
     font-size: 16px;
+    line-height: 20px;
     text-decoration: none;
     padding: 5px;
     padding-left: 15px;
-    padding-right: 15px;
+    padding-right: 15px; 
     border: 3px solid transparent;
 }
 
 a:last-of-type {
-    margin-left: 15px;
+    margin-left: 20px;
     border-color: darkgrey;
-    border-radius: 500px;
+    border-radius: 18px;
 }
 
 main {
@@ -76,4 +78,5 @@ main > img {
     display: inline-block;
     width: 46%;
     margin-left: 8%;
+    float: left;
 }
