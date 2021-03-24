@@ -1,4 +1,4 @@
-# 2-mergaite
+# Mergaite
 
 _Second student-practise project_
 
